@@ -1,7 +1,11 @@
 # Livro de receitas
 
-Olá! bem vindos ao meu livro de receitas
+Ola! bem vindo a meu livro de receitas
 
-- 300 gramas de frango
+- Strogonoffe de frango
+- PAVÊ
+- Bolo de cenoura 
 
-- pavê
+
+
+
