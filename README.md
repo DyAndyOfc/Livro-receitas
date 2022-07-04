@@ -1,5 +1,5 @@
 # Livro de receitas
 
-Ola! bem vindos ao livros de receitas
+Olá! bem vindos ao meu livro de receitas
 
 - 300 gramas de frango
